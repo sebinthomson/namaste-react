@@ -1,0 +1,17 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Namaste React by Akshai Saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "namste",
+    "react",
+    "akshai",
+    "saini"
+  ],
+  "author": "Sebin Thomson",
+  "license": "ISC"
+}
